@@ -1,0 +1,23 @@
+{
+  "name": "black-magic-cube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeliski/black-magic-cube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeliski/black-magic-cube/issues"
+  },
+  "homepage": "https://github.com/angeliski/black-magic-cube#readme",
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}
